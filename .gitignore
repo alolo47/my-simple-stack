@@ -1,0 +1,7 @@
+# Ingorer les .class
+*.class
+# Ignorer de dossiers
+/target
+/.idea
+
+*.iml
